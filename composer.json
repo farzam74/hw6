@@ -1,0 +1,20 @@
+{
+    "name": "farzam/p6",
+    "type": "project",
+    "license": "MIT",
+
+    "autoload": {
+        "psr-4": {
+            "": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "farzam",
+            "email": "farzamjafari74@gmail.com"
+        }
+    ],
+
+    "minimum-stability": "stable",
+    "require": {}
+}
